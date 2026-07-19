@@ -1,1 +1,1 @@
-# WA-Ghost-And-Chatroom
+# WA-Ghost-Notifier-And-Chatroom
