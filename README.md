@@ -21,18 +21,33 @@ https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 ### Features 
 
 • The ghost(s) will play their idle animation, until you receive a message.
+
 • You will see an HOLD icon (which can be swapped for another custom one if you'd like) that'll only disappear upon having read the message. 
+
 • Plays custom sound when a message is received
+
 • Operates silently (no cmd popping/staying) and on your app tray
+
 • From your tray, you can choose to hide the Ghosts/show them again, and open the log to know what's happening
+
 • From the already built-in SSP feature, you can choose to show the Ghosts on top of every page / resize them at will 
+
 • The UI stays on your taskbar, and has a whatsapp icon.
+
 • It's been designed to have a 2000s-ish japanese chatroom aesthetic - although I would like to polish it, but currently have no ideas how :(
+
 • You can import your full chat history from whatsapp to the UI
+
 • You can send and import stickers from sticker.ly to the UI
+
 • Full media viewing / audio listening support (you can zoom on images, too)
+
 • You can reply to / quote specific messages directly in the UI
+
 • You can pick a custom background wallpaper for the UI
+
 • Your and your contact's profile picture is directly fetched from whatsapp
+
 • Your incoming messages and the imported chat history will be cached and saved directly in your computer
+
 • You can look up specific messages in a chat with the search feature
