@@ -51,3 +51,62 @@ https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 • Your incoming messages and the imported chat history will be cached and saved directly in your computer
 
 • You can look up specific messages in a chat with the search feature
+
+### Setup instructions
+
+### 1. Installing dependencies
+
+Step 1: Open the Terminal in the Right Place
+
+    Open the extracted wa_listener folder in Windows File Explorer.
+
+    Click on the address bar at the very top of the window (where it says C:\Users\...).
+
+    Delete everything in the bar, type cmd, and press Enter.
+
+    A black terminal window will pop up, already perfectly locked into your folder!
+
+Step 2: The Copy-Paste Commands
+
+Once that black window is open, just run these three commands, one at a time. 
+
+1. Install the Node.js Background Stuff
+
+npm install @whiskeysockets/baileys pino systray qrcode qrcode-terminal
+
+2. Install the Python Visual Stuff
+This downloads the tools needed to draw the user interface:
+Bash
+
+pip install pywebview emoji
+
+If any of these commands say 'npm is not recognized' or 'pip is not recognized', it means you haven't installed Node.js or Python yet! Go download and install those first.
+
+### 2. Configure your target numbers
+
+In the data folder, after connecting to whatsapp scanning the qr code in the UI (launch start_silent.vbs), you will find a contacts_cache.json -- open it
+
+use the Find option to search for your desired contact's name/s, and note the digits before @lid
+
+In the same data folder, you will find a config.json, fill the template
+
+### 3. Ghost Assets
+
+Navigate to the `Ghost_Assets` folder.
+
+Copy the provided image file (or use a custom one) and drop it directly into your SSP ghost's directory (ghost>shell>master) to enable the visual notification sign
+
+### 4. (Optional) Swap the provided ringtone with a custom one
+
+Download a .wav and place it in the ringtone folder, and rename it to "0271"
+
+### 5. (Optional) Import your whole chat history (optional)
+
+1. Use your phone to open whatsapp, and open your target's contact chat
+   
+2. click the three dots on the right and select Other > Export chat and choose 'with media'
+
+3. If you choose a different name for your contact on config.json, go edit it to match how it's saved on whatsapp.
+
+4. Use the import button next to the "Send" button on the UI, and wait - if you want to monitor the progress, you can do so by manually opening gui.py 
+(Once done, you can now optionally change back your contact's name on config.json)
