@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 
 • The UI stays on your taskbar, and has a whatsapp icon.
 
-• It's been designed to have a 2000s-ish japanese chatroom aesthetic - although I would like to polish it, but currently have no ideas how :(
+• It's been designed to have a 2000s-ish japanese chatroom aesthetic - although I would like to polish it
 
 • You can import your full chat history from whatsapp to the UI
 
@@ -76,6 +76,7 @@ npm install @whiskeysockets/baileys pino systray qrcode qrcode-terminal
 
 2. Install the Python Visual Stuff
 This downloads the tools needed to draw the user interface:
+
 Bash
 
 pip install pywebview emoji
