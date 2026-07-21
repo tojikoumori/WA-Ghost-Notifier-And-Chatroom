@@ -112,3 +112,28 @@ Download a .wav and place it in the ringtone folder, and rename it to "0271"
 
 4. Use the import button next to the "Send" button on the UI, and wait - if you want to monitor the progress, you can do so by manually opening gui.py 
 (Once done, you can now optionally change back your contact's name on config.json)
+
+## Usage
+
+### Launching the App
+To start the application without keeping command prompt windows open, simply double-click the **`start_silent.vbs`** file. This script will:
+
+1. Detect your current installation directory.
+2. 
+3. Start the Node.js backend listener silently in the background.
+4. 
+5. Wait two seconds, then launch the Python GUI (`gui.py`).
+
+To have it run upon booting your pc, make a shortcut of start_silent.vbs (right click > show more options > create shortcut). 
+
+Press Win+R and type shell:startup, you can now drop your shortcut in the folder that opens
+
+### System Tray Controls
+
+Once running, WA Ghost will appear in your Windows system tray. You can right-click the icon to:
+
+Open the listener's event log.
+
+Manually Show/Hide the desktop ghosts.
+ 
+Safely Quit the application.
