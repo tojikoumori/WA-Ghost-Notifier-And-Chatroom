@@ -58,13 +58,13 @@ https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 
 Step 1: Open the Terminal in the Right Place
 
-    Open the extracted wa_listener folder in Windows File Explorer.
+Open the extracted wa_listener folder in Windows File Explorer.
 
-    Click on the address bar at the very top of the window (where it says C:\Users\...).
+Click on the address bar at the very top of the window (where it says C:\Users\...).
 
-    Delete everything in the bar, type cmd, and press Enter.
+Delete everything in the bar, type cmd, and press Enter.
 
-    A black terminal window will pop up, already perfectly locked into your folder!
+A black terminal window will pop up, already perfectly locked into your folder!
 
 Step 2: The Copy-Paste Commands
 
