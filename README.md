@@ -72,14 +72,15 @@ Once that black window is open, just run these three commands, one at a time.
 
 1. Install the Node.js Background Stuff
 
-npm install @whiskeysockets/baileys pino systray qrcode qrcode-terminal
+
+**npm install @whiskeysockets/baileys pino systray qrcode qrcode-terminal**
 
 2. Install the Python Visual Stuff
 This downloads the tools needed to draw the user interface:
 
-Bash
+**Bash**
 
-pip install pywebview emoji
+**pip install pywebview emoji**
 
 If any of these commands say 'npm is not recognized' or 'pip is not recognized', it means you haven't installed Node.js or Python yet! Go download and install those first.
 
