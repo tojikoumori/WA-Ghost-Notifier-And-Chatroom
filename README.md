@@ -2,7 +2,7 @@
 
 <sup><sub>i make projects for fun and share them to use freely, but i spend so much time on them, so if you liked this and want to support me i appreciate donations :) 
 
-<sup><sub>☕ https://buymeacoffee.com/tojikoumori<sup><sub>
+<sup>☕ https://buymeacoffee.com/tojikoumori<sup>
 
 ### Infos / Other required downloads
 
