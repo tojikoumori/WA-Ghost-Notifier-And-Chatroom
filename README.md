@@ -122,11 +122,11 @@ Download a .wav and place it in the ringtone folder, and rename it to "0271"
 ### Launching the App
 To start the application without keeping command prompt windows open, simply double-click the **`start_silent.vbs`** file. This script will:
 
-1. Detect your current installation directory.
-2. 
-3. Start the Node.js backend listener silently in the background.
-4. 
-5. Wait two seconds, then launch the Python GUI (`gui.py`).
+- Detect your current installation directory.
+
+ - Start the Node.js backend listener silently in the background.
+
+- Wait two seconds, then launch the Python GUI (`gui.py`).
 
 To have it run upon booting your pc, make a shortcut of start_silent.vbs (right click > show more options > create shortcut). 
 
