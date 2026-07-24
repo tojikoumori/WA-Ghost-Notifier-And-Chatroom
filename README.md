@@ -1,6 +1,7 @@
 # WA-Ghost-Notifier-And-Chatroom
 
 <sup><sub>i make projects for fun and share them to use freely, but i spend so much time on them, so if you liked this and want to support me i appreciate donations :) 
+
 ☕ https://buymeacoffee.com/tojikoumori<sup><sub>
 
 ### Infos / Other required downloads
