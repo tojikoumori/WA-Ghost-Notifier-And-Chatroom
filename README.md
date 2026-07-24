@@ -1,5 +1,8 @@
 # WA-Ghost-Notifier-And-Chatroom
 
+<sup><sub>i spend lots of time on my projects, so if you liked this and want to support me i appreciate donations :) 
+☕ https://buymeacoffee.com/tojikoumori<sup><sub>
+
 ### Infos / Other required downloads
 
 _This script makes use of [Bayleys](https://github.com/whiskeysockets/Baileys) and works by using the official WhatsApp Linked Device protocol: the script functions just like a web browser. It doesn't store your personal data, and it operates entirely offline on your own computer._
