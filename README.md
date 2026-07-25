@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 <img width="1080" height="676" alt="Image" src="https://github.com/user-attachments/assets/b193b907-805c-4797-9ee6-1c4fba84867a" />
 
 <img width="1917" height="1020" alt="immagine" src="https://github.com/user-attachments/assets/d12f3715-899d-49bb-beca-6b81767583b7" />
-_this last image is outdated, so it doesn't represent the font, but only the colors_
+
 
 ### Features 
 
