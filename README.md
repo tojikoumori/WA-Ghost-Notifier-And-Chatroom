@@ -1,10 +1,27 @@
-# WA-Ghost-Notifier-And-Chatroom
+# 2000s-WhatsApp-Notifier-Chatroom
 
+### Overview
+
+https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
+
+<img width="1080" height="676" alt="Image" src="https://github.com/user-attachments/assets/b193b907-805c-4797-9ee6-1c4fba84867a" />
+
+(tweaked version WIP, publishing soon!! needs some touch ups)
+<img width="1917" height="1017" alt="immagine-19" src="https://github.com/user-attachments/assets/e3392027-1be3-4bd2-80fa-3578f212c38d" />
+
+<img width="1917" height="1017" alt="immagine" src="https://github.com/user-attachments/assets/2a97b73e-2f89-48cb-a338-42178a1eaba0" />
+(first and currently published version) - small note: wallpaper is not included, it's just the one i picked
+
+<img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
+
+-----------------------------------
 <sup>i make projects for fun and share them to use freely, though i spend so much time on them, 
 
 <sup>so if this was of use to you and you want to support me i appreciate donations :)<sup>
 
 <sup>☕ https://buymeacoffee.com/tojikoumori<sup>
+
+-------------------------------------
 
 ### Infos / Other required downloads
 
@@ -13,20 +30,6 @@ _This script makes use of [Bayleys](https://github.com/whiskeysockets/Baileys) a
 _It has been designed to work and be paired with this specific [Kaomoji Ghost](https://web.archive.org/web/20070113064539/http://www.geocities.co.jp/Bookend-Shikibu/8267/nanikapnew.htm)_ 
 
 _You can download the SSP software [here](https://ssp.shillest.net/) needed for the Kaomoji Ghost_ 
-
-### Overview
-
-https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
-
-<img width="1080" height="676" alt="Image" src="https://github.com/user-attachments/assets/b193b907-805c-4797-9ee6-1c4fba84867a" />
-
-<img width="1917" height="1017" alt="immagine" src="https://github.com/user-attachments/assets/2a97b73e-2f89-48cb-a338-42178a1eaba0" />
-(first and currently published version) - small note: wallpaper is not included, it's just the one i picked
-
-(tweaked version WIP, publishing soon!! needs some touch ups)
-<img width="1917" height="1017" alt="immagine-19" src="https://github.com/user-attachments/assets/e3392027-1be3-4bd2-80fa-3578f212c38d" />
-
-<img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
 
 
 ### Features 
