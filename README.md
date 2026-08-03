@@ -2,8 +2,10 @@
 
 ### Overview
 
+_Message deliverers / Notifier_
 https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 
+_Chat room!_
 <img width="1080" height="676" alt="Image" src="https://github.com/user-attachments/assets/b193b907-805c-4797-9ee6-1c4fba84867a" />
 
 (tweaked version WIP, publishing soon!! needs some touch ups)
