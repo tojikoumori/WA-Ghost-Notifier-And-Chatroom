@@ -2,15 +2,15 @@
 
 ### Overview
 
-_Message deliverers / Notifier_
+_Message deliverers / Notifier_ :
 
 https://github.com/user-attachments/assets/1e8728c6-6bf1-4234-853b-b0a5707955d1
 
 <img width="1080" height="676" alt="Image" src="https://github.com/user-attachments/assets/b193b907-805c-4797-9ee6-1c4fba84867a" />
 
-_Chat room!_ (Will be referred to as 'UI')
+_Chat room!_ (Will be referred to as 'UI') :
 
-(tweaked version: publishing soon!! needs some touch ups)
+(tweaked version: **publishing soon!!** needs some touch ups)
 <img width="1917" height="1020" alt="Senza titolo 237_20260803190353" src="https://github.com/user-attachments/assets/1c8236ac-74a0-4776-932f-2f4f3b00f04e" />
 
 <img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
