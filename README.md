@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 <img width="1080" height="676" alt="Image" src="https://github.com/user-attachments/assets/b193b907-805c-4797-9ee6-1c4fba84867a" />
 
 <img width="1917" height="1017" alt="immagine" src="https://github.com/user-attachments/assets/2a97b73e-2f89-48cb-a338-42178a1eaba0" />
-(first and currently published version)
+(first and currently published version) - small note: wallpaper is not included, it's just the one i picked
 
 (tweaked version WIP, publishing soon!! needs some touch ups)
 <img width="1917" height="1017" alt="immagine-19" src="https://github.com/user-attachments/assets/e3392027-1be3-4bd2-80fa-3578f212c38d" />
