@@ -10,8 +10,9 @@ https://github.com/user-attachments/assets/1e8728c6-6bf1-4234-853b-b0a5707955d1
 
 _Chat room!_ (Will be referred to as 'UI')
 
-(tweaked version WIP, publishing soon!! needs some touch ups)
-<img width="1917" height="1017" alt="immagine-19" src="https://github.com/user-attachments/assets/e3392027-1be3-4bd2-80fa-3578f212c38d" />
+(tweaked version: publishing soon!! needs some touch ups)
+<img width="1917" height="1020" alt="Senza titolo 237_20260803190353" src="https://github.com/user-attachments/assets/1c8236ac-74a0-4776-932f-2f4f3b00f04e" />
+
 
 <img width="1917" height="1017" alt="immagine" src="https://github.com/user-attachments/assets/2a97b73e-2f89-48cb-a338-42178a1eaba0" />
 (first and currently published version) - small note: wallpaper is not included, it's just the one i picked
