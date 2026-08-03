@@ -23,12 +23,10 @@ https://github.com/user-attachments/assets/710e5126-7f13-43a0-acb0-dc73fcf81ead
 <img width="1917" height="1017" alt="immagine" src="https://github.com/user-attachments/assets/2a97b73e-2f89-48cb-a338-42178a1eaba0" />
 (first and currently published version)
 
-<img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
 (tweaked version WIP, publishing soon!! needs some touch ups)
-
 <img width="1917" height="1017" alt="immagine-19" src="https://github.com/user-attachments/assets/e3392027-1be3-4bd2-80fa-3578f212c38d" />
 
-
+<img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
 
 
 ### Features 
