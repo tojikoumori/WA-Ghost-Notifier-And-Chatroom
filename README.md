@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/1e8728c6-6bf1-4234-853b-b0a5707955d1
 
 <img width="1080" height="676" alt="Image" src="https://github.com/user-attachments/assets/b193b907-805c-4797-9ee6-1c4fba84867a" />
 
-_Chat room!_
+_Chat room!_ (Will be referred to as 'UI')
 
 (tweaked version WIP, publishing soon!! needs some touch ups)
 <img width="1917" height="1017" alt="immagine-19" src="https://github.com/user-attachments/assets/e3392027-1be3-4bd2-80fa-3578f212c38d" />
