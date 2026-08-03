@@ -13,11 +13,12 @@ _Chat room!_ (Will be referred to as 'UI')
 (tweaked version: publishing soon!! needs some touch ups)
 <img width="1917" height="1020" alt="Senza titolo 237_20260803190353" src="https://github.com/user-attachments/assets/1c8236ac-74a0-4776-932f-2f4f3b00f04e" />
 
+<img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
 
 <img width="1917" height="1017" alt="immagine" src="https://github.com/user-attachments/assets/2a97b73e-2f89-48cb-a338-42178a1eaba0" />
 (first and currently published version) - small note: wallpaper is not included, it's just the one i picked
 
-<img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
+
 
 -----------------------------------
 <sup>i make projects for fun and share them to use freely, though i spend so much time on them, 
