@@ -49,8 +49,6 @@ _You can download the SSP software [here](https://ssp.shillest.net/) needed for 
 
 • The UI stays on your taskbar, and has a whatsapp icon.
 
-• It's been designed to have a 2000s-ish japanese chatroom aesthetic - although I would like to polish it
-
 • You can import your full chat history from whatsapp to the UI
 
 • You can send and import stickers from sticker.ly to the UI
