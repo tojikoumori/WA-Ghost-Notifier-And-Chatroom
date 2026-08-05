@@ -10,10 +10,9 @@ https://github.com/user-attachments/assets/1e8728c6-6bf1-4234-853b-b0a5707955d1
 
 _Chat room!_ (Will be referred to as 'UI') :
 
-<img width="968" height="983" alt="IMG_20260805_163312" src="https://github.com/user-attachments/assets/29c6bb09-4d2a-4903-b861-528370e965ee" />
+<img width="927" height="970" alt="Senza titolo 239_20260805171747" src="https://github.com/user-attachments/assets/26440858-eb8c-4829-906d-e6282e4ab203" />
+<img width="927" height="970" alt="Senza titolo 239_20260805171921" src="https://github.com/user-attachments/assets/06da89ee-ccef-4884-ab19-7e67055d6501" />
 
-
-<img width="967" height="971" alt="IMG_20260805_163257" src="https://github.com/user-attachments/assets/ab8b06d3-690d-42df-b2d3-334d81c4b89b" />
 
 <img width="680" height="104" alt="immagine" src="https://github.com/user-attachments/assets/f1fffe16-07c9-4789-8bb9-b5d222e2eb09" />
 
